@@ -1,0 +1,866 @@
+
+body{background-color: azure;}
+/*About heading*/
+.general-div{
+    width: 1200px;
+    height: fit-content;
+    background-color:white;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid lightgray;
+}
+.menu{
+    width: 1200px;
+    height: 30px;
+}
+.search-top{
+    width: 150px;
+    height: 23px;
+    margin-left: 20%;
+}
+.pclogo{
+    position:sticky;
+    top: -123px;
+    width: 1200px;
+    height: 100px;
+    background-color: white;
+}
+
+table {
+    border-color: black;
+}
+tr{
+    width: 1200px;
+    height: 50px;
+    background-color: rgb(17, 10, 10);
+ 
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+}
+td{
+    width: 90px;
+    color: white;
+}
+.long{
+    width: 150px;
+    
+}
+.longest{
+    width: 150px;
+    background-color: rgb(0, 142, 0);
+    
+}
+.search{
+    margin-left: 1000px;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    color: rgb(40, 32, 32);
+}
+.emptydiv{
+    border-radius: 0px;
+    width: 100%;
+    height: 5px;
+    background-color:  rgb(0, 142, 0);
+    margin-top: 50px;
+}
+.aa1{
+    color: white;
+}
+
+.aa1:visited{
+    color: rgb(255, 255, 255);
+}
+.aa2{
+    color: white;
+}
+
+.aa2:visited{
+    color: rgb(255, 255, 255);
+}
+.aa3{
+    color: white;
+}
+
+.aa3:visited{
+    color: rgb(255, 255, 255);
+}
+.aa4{
+    color: white;
+}
+
+.aa4:visited{
+    color: rgb(255, 255, 255);
+}
+.aa5{
+    color: white;
+}
+
+.aa5:visited{
+    color: rgb(255, 255, 255);
+}
+.aa6{
+    color: white;
+}
+
+.aa6:visited{
+    color: rgb(255, 255, 255);
+}
+.aa7{
+    color: white;
+}
+
+.aa7:visited{
+    color: rgb(255, 255, 255);
+}
+.aa8{
+    color: white;
+}
+
+.aa8:visited{
+    color: rgb(255, 255, 255);
+}
+.aa9{
+    color: white;
+}
+
+.aa9:visited{
+    color: rgb(255, 255, 255);
+}
+.aa10{
+    color: white;
+}
+
+.aa10:visited{
+    color: rgb(255, 255, 255);
+}
+.aa11{
+    color: white;
+}
+
+.aa11:visited{
+    color: rgb(255, 255, 255);
+}
+
+
+/*static div for search and others*/
+.static-search{
+    top: 0%;
+    position: sticky;
+    margin-left: 69%;
+    margin-top: 2.5%;
+    width: 300px;
+    padding: 5px;
+    
+}
+.spwl{
+    font-size: 25px;
+    color: rgb(48, 41, 41);
+}
+.sirdiv{
+    width: 308px;
+    border: 0.1px solid gray;
+    height: 100px;
+    border-bottom: 5px solid green;
+    border-radius: 5%;
+}
+.search-input{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+}
+.searh{
+    width: 80px;
+    height: 30px;
+    background-color: green;
+    border-radius: 5%;
+}
+.Let{
+    color: rgb(48, 41, 41);
+}
+.joindiv{
+    width: 308px;
+    border: 0.1px solid gray;
+    height: 180px;
+    border-bottom: 5px solid green;
+    border-radius: 5%;
+}
+.parajion{
+    font-size: 14px;
+}
+.inputemail{
+    width: 300px;
+    height: 24px;
+}
+.subscribe{
+    width: 95px;
+    height: 35px;
+    background-color: rgb(11, 11, 11);
+    border-radius: 30%;
+    color: white;
+}
+
+
+/*Long div*/
+.divhom{
+    height: 70px;
+    width: 65%;
+    border-bottom: 2px solid lightgray;
+    margin-top: -38%;
+
+}
+.span1{
+    position: absolute;
+    bottom: 65%;
+    right:50%
+}
+
+.longdiv{
+    width: 63%;
+    border: 2px solid lightgray;
+    margin-left: 1%;
+    margin-top: 1%;
+    border-radius: 2px;
+}
+.sph{
+    font-size: 30px;
+    padding-right: 5%;
+    padding-left: 3%;
+}
+.plinks{
+    font-size: 15px;
+    color: rgb(200, 200, 200);
+    padding-top: 0%;
+}
+p{
+    padding-left: 3%;
+    padding-right: 5%;
+
+}
+.overview{
+    height: 500px;
+    width: 500px;
+    padding-left: 15%;
+}
+h4{
+    padding-left: 3%;
+}
+h5{
+    padding-left: 3%;
+}
+
+/*password and download button*/
+
+.butpas{
+    text-align: center;
+    font-size: 20px;
+}
+.downbut{
+    margin-left: 35%;
+    width: 230px;
+    height: 80px;
+    text-align: center;
+    font-size: 18px;
+    border-bottom: 7px solid rgb(73, 16, 16);
+    border-radius: 10%;
+    background-color: rgb(151, 0, 0);
+    color: aliceblue;
+    text-shadow: 30px 0px 30px rgb(0, 0, 0);
+}
+
+.downbut:hover{
+    background-color: rgb(102, 4, 4);
+}
+
+.butpas{
+    text-align: center;
+    font-size: 20px;
+}
+
+.buttongreen{
+    margin-left: 35%;
+    width: 230px;
+    height: 65px;
+    text-align: center;
+    font-size: 18px;
+    border-bottom: 7px solid rgb(8, 62, 80) ;
+    border-radius: 10%;
+    background-color:rgb(33, 145, 219);
+    color: aliceblue;
+    text-shadow: 30px 0px 30px rgb(0, 0, 0);
+}
+.buttongreen:hover{
+    background-color: rgb(6, 95, 155);
+}
+
+/*Related Posts and their image*/
+
+.related-posts{
+    margin-left: 2%;
+    border-bottom: 5px solid green;
+    height: 400px;
+    width: 750px;
+}
+
+/*boris*/
+
+.Boris{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+
+}
+.relim{
+    width: 150px;
+    height: 150px;
+   
+
+}
+.borisfx{
+    width: 145px;
+    height: 60px;
+    background-color: gray;
+    color: white;
+    border-radius: 5%;
+    position: absolute;
+    top: 87px;
+    left: 2px;
+    opacity: 90%;
+}
+.Boris:hover{
+    border: 3px solid darkgray;
+    background-color: rgb(27, 23, 23);
+}
+.relim:hover{
+    border: 3px solid darkgray;
+    opacity: 60%;
+    border-radius: 5px solid darkgray;
+
+}
+/*boris2*/
+
+.Boris2{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-left: 25%;
+    margin-top: -20%;
+}
+
+/*silhousette*/
+
+.silhousette{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-left: 50%;
+    margin-top: -20%;
+}
+
+/*silhousette1*/
+
+.silhousette1{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-left: 75%;
+    margin-top: -20%;
+}
+.relim2{
+    width: 150px;
+    height: 150px;
+   
+
+}
+.borisfx2{
+    width: 145px;
+    height: 60px;
+    background-color: gray;
+    color: white;
+    border-radius: 5%;
+    position: absolute;
+    top: 87px;
+    left: 2px;
+    opacity: 90%;
+}
+.Boris2:hover{
+    border: 3px solid darkgray;
+    background-color: rgb(27, 23, 23);
+}
+.relim2:hover{
+    border: 3px solid darkgray;
+    opacity: 60%;
+    border-radius: 5px solid darkgray;
+
+}
+/*FrameMaker*/
+
+.FM{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-top: 3%;
+
+}
+.relim{
+    width: 150px;
+    height: 150px;
+   
+
+}
+.borisfx{
+    width: 145px;
+    height: 60px;
+    background-color: gray;
+    color: white;
+    border-radius: 5%;
+    position: absolute;
+    top: 87px;
+    left: 2px;
+    opacity: 90%;
+}
+.Boris:hover{
+    border: 3px solid darkgray;
+    background-color: rgb(27, 23, 23);
+}
+.relim:hover{
+    border: 3px solid darkgray;
+    opacity: 60%;
+    border-radius: 5px solid darkgray;
+
+}
+/*Genarts*/
+
+.Genarts{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-top: -20%;
+    margin-left: 26%;
+
+}
+
+/*Continuum*/
+
+.Continuum{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-top: -20%;
+    margin-left: 50%;
+
+}
+
+/*Sapphire*/
+
+.Sapphire{
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-top: -20%;
+    margin-left: 75%;
+}
+
+/* DOWNLOAD TAGS*/
+.tag{
+    width: 750px;
+    height: 79px;
+}
+.download-tag{
+    width:fit-content;
+    height: 15px;
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    margin-top: -2%;
+    margin-left: 5%;
+}
+.download-tag1{
+    width:fit-content;
+    height: 15px;
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    margin-top: -2%;
+    margin-left: 16%;
+}
+.download-tag2{
+    width:fit-content;
+    height: 15px;
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    margin-top: -2%;
+    margin-left: 32%;
+}
+.download-tag3{
+    width:fit-content;
+    height: 15px;
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    margin-top: 1%;
+    margin-left: 0%;
+}
+.download-tag4{
+    width:fit-content;
+    height: 15px;
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    margin-top: -2%;
+    margin-left: 43%;
+}
+.download-tag5{
+    width:fit-content;
+    height: 15px;
+    background-color: gray;
+    color: white;
+    font-size: 12px;
+    margin-top: 1%;
+    margin-left: 0%;
+}
+
+/*Double angle and their contents*/
+
+.angle{
+    width: 750px;
+    height: 79px;
+    position: relative;
+}
+.fa-angle-double-right{
+    margin-left: 98%;
+    margin-top: -2%;
+    position:absolute;
+}
+.fa-angle-double-left{
+    margin-top: -1%;
+    position: absolute;
+}
+.Next{
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 90%;
+    color: gray;
+    
+}
+.Previous{
+    color: gray;
+}
+.Right1{
+    position: absolute;
+    margin-top: -2%;
+    margin-left: 60%;
+   text-align: right;  
+}
+.left{
+    position: absolute;
+    margin-top: -2%;
+    margin-left: 10%;
+}
+
+/*ALSO ON PCWONDERLAND.COM*/
+
+.also{
+    margin-left: 2%;
+    border-bottom: 2px solid gray;
+    height: 500px;
+    width: 750px;
+}
+/*Chief Architect*/
+.Architect{
+    border: 1px solid gray;
+    width: 230px;
+    height: 290px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+}
+.Architect:hover{
+    border: 3px solid rgb(68, 51, 51);
+}
+.CHIEF-A{
+    height: 230px;
+    width: 235px;
+    border-radius: 10%;
+    opacity: 33%;
+}
+.CHIEF-A:hover{
+    opacity: 70%;
+}
+.CHIEF-A-TEXT{
+    position: absolute;
+    background-color: white;
+    color: black;
+    width: 100%;
+    margin-top: -30%;
+    border-radius: 10%;
+    text-align: left;
+    font-weight: bold;
+}
+.CHIEF-A-TEXT:hover{
+    background-color: rgb(233, 233, 233);
+}
+.CAPXFD{
+    margin-top: 20%;
+    position: absolute;
+    font-weight: bold;
+    font-size: 20px;
+}
+.comment{
+    color: gray;
+    font-weight: normal;
+}
+/*ADOBE AFTER-EFFECTS*/
+.Aftereffects{
+    border: 1px solid gray;
+    width: 230px;
+    height: 290px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-left: 35%;
+    margin-top: -38.5%;
+}
+.Aftereffects:hover{
+    border: 3px solid rgb(68, 51, 51);
+}
+.ADOBE-A{
+    height: 230px;
+    width: 235px;
+    border-radius: 10%;
+    opacity: 33%;
+}
+.ADOBE-A:hover{
+    opacity: 70%;
+}
+.ADOBE-A-TEXT{
+    position: absolute;
+    background-color: white;
+    color: black;
+    width: 100%;
+    margin-top: -30%;
+    border-radius: 10%;
+    text-align: left;
+    font-weight: bold;
+}
+.ADOBE-A-TEXT:hover{
+    background-color: rgb(233, 233, 233);
+}
+.AAE2FD{
+    margin-top: 20%;
+    position: absolute;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10%;
+}
+.comment{
+    color: gray;
+    font-weight: normal;
+}
+/*MAGIX VEGAS Movies Studio*/
+.MagixVegas{
+    border: 1px solid gray;
+    width: 230px;
+    height: 290px;
+    text-align: center;
+    border-radius: 5%;
+    position: relative;
+    margin-left: 70%;
+    margin-top: -38.5%;
+}
+.MagixVegas:hover{
+    border: 3px solid rgb(68, 51, 51);
+}
+.MAGIX-A{
+    height: 230px;
+    width: 235px;
+    border-radius: 10%;
+    opacity: 33%;
+}
+.MAGIX-A:hover{
+    opacity: 70%;
+}
+.MAGIX-A-TEXT{
+    position: absolute;
+    background-color: white;
+    color: black;
+    width: 100%;
+    margin-top: -30%;
+    border-radius: 10%;
+    text-align: left;
+    font-weight: bold;
+}
+.MAGIX-A-TEXT:hover{
+    background-color: rgb(233, 233, 233);
+}
+.MVMS2F{
+    margin-top: 20%;
+    position: absolute;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 10%;
+}
+.comment{
+    color: gray;
+    font-weight: normal;
+}
+/*container*/
+
+.container:hover{
+    background-color: rgb(235, 239, 242);
+}
+/*login and comment*/
+.zeroco{
+    font-size: 17px;
+    margin-top: 0.5%;
+    font-weight: lighter;
+}
+.fa-comment{
+   position: absolute;
+   margin-top: -6%;
+   margin-left: 90%;
+   color: red;
+
+}
+.login{
+  position: absolute;
+  margin-top: -6.5%;
+  margin-left: 90%;
+  font-weight: light;
+  font-size: 20px;
+}
+.logco{
+    position: relative;
+    height: 30px;
+    margin-top: 17%;
+}
+
+/*pw and inputs and social media icons*/
+.pw{
+    border-radius: 20%;
+    width: 50px;
+    height: 50px;
+    margin-top: 3%;
+    border: 1px solid darkgray;
+    margin-left: 2%;
+}
+#started{
+    position: absolute;
+    width: 680px;
+    height: 50px;
+    margin-top: 2.3%;
+    margin-left: 2%;
+    border-radius: 5%;
+}
+
+.pwinsomeic{
+    position: relative;
+}
+
+.OR-SIGN{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: -11%;
+    font-size: 20px;
+}
+#name{
+    position:absolute;
+    margin-top: -5%;
+    width: 420px;
+    height: 30px;
+}
+
+.LOGINW{
+    margin-left: 10%;
+    margin-top: -1%;
+}
+.low{
+    margin-left: 0%;
+    font-size: 13px;
+    margin-top: 3%;
+}
+/*social-icon*/
+.social-icon{
+    margin-left: -3%;
+}
+.fa-algolia{
+    color: rgb(5, 181, 14);
+    font-size: 40px;
+}
+.fa-facebook{
+    color: rgb(6, 55, 179);
+    font-size: 40px;
+}
+
+.fa-twitter{
+    color: rgb(0, 195, 195);
+    font-size: 40px;
+}
+.fa-square-google-plus{
+    color: rgb(224, 6, 6);
+    font-size: 40px;
+}
+/*lastest*/
+.lastest{
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 23px;
+}
+.fa-brand{
+   margin-top: -3%;
+   font-size: 30px;
+   opacity: 0%;
+   margin-left: 7%;
+   width: fit-content;
+}
+.fa-brand:hover{
+    opacity: 100%;
+}
+.headlinks{
+    margin-left: 45%;
+    margin-top: -7%;
+}
+.benot{
+    color: gray;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-left: 27%;
+}
+/*copyright*/
+
+.copyright{
+    height: 60px;
+    background-color: black;
+    color: white; 
+}
+.copytext{
+   padding-top: 1%;
+}
+
+
